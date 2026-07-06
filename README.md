@@ -47,22 +47,7 @@ Full Stack Web Developer | AI Engineer | Problem Solver
 
 ### 🛠️ Tools  
 `Git` `GitHub` `Postman` `VS Code` `Vercel` `Netlify` `GitHub Pages` `AWS`
-
-
-
-### 🔹 Programming & Web Technologies  
-`Java` `Python (Basic)` `HTML5` `CSS3` `JavaScript` `ReactJS` `MongoDB`  
-
-### 🔹 Frameworks, Databases & AI  
-`Node.js` `Express.js` `LangChain` `LangGraph` `REST APIs` `MongoDB` `MySQL`  
-`Generative AI` `RAG` `Vector Search` `AI Agents` `LLM Workflows`  
-`Prompt Engineering` `Machine Learning` `Deep Learning`  
-
-### 🔹 Core Concepts & Tools  
-`Data Structures & Algorithms` `Object-Oriented Programming (OOP)`  
-`Database Management Systems (DBMS)` `Operating Systems`  
-`Software Development Life Cycle (SDLC)`  
-`Git` `GitHub` `Postman` `Vercel` `Kaggle` `VS Code`  
+ 
 ---
 
 ## 📊 GitHub Stats  
