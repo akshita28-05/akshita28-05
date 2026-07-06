@@ -30,7 +30,7 @@ Full Stack Web Developer | AI Engineer | Problem Solver
 ## 💻 Tech Stack  
 
 ### 🧠 Languages  
-`C++` `Java` `Python` `JavaScript`  
+`C++(Basics)` `Java` `Python(Basics)` `JavaScript`  
 
 ### 🌐 Frontend  
 `HTML` `CSS` `React.js` `Tailwind CSS` `Bootstrap`  
@@ -42,18 +42,31 @@ Full Stack Web Developer | AI Engineer | Problem Solver
 `MongoDB` `MySQL`  
 
 ### 🤖 AI/ML  
-`Generative AI` `LangChain` `RAG` `LLM Workflows` `Agentic Systems`  
-
-### ☁️ Deployment & DevOps  
-`Vercel` `Netlify` `GitHub Pages` `AWS`  
+`Generative AI` `LangChain` `RAG` `LLM Workflows` `Agentic Systems`   
+  
 
 ### 🛠️ Tools  
-`Git` `GitHub` `Postman` `VS Code`  
+`Git` `GitHub` `Postman` `VS Code` `Vercel` `Netlify` `GitHub Pages` `AWS`
 
+
+
+### 🔹 Programming & Web Technologies  
+`Java` `Python (Basic)` `HTML5` `CSS3` `JavaScript` `ReactJS` `MongoDB`  
+
+### 🔹 Frameworks, Databases & AI  
+`Node.js` `Express.js` `LangChain` `LangGraph` `REST APIs` `MongoDB` `MySQL`  
+`Generative AI` `RAG` `Vector Search` `AI Agents` `LLM Workflows`  
+`Prompt Engineering` `Machine Learning` `Deep Learning`  
+
+### 🔹 Core Concepts & Tools  
+`Data Structures & Algorithms` `Object-Oriented Programming (OOP)`  
+`Database Management Systems (DBMS)` `Operating Systems`  
+`Software Development Life Cycle (SDLC)`  
+`Git` `GitHub` `Postman` `Vercel` `Kaggle` `VS Code`  
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=akshita28-05&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=akshita28-05&show_icons=true&theme=radical))  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshita28-05&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshita28-05&layout=compact&theme=radical)  
 
